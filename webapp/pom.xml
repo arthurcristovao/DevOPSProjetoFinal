@@ -12,8 +12,8 @@
 
   <artifactId>outro</artifactId>
   <packaging>war</packaging>
-  <name>Webapp</name>
-  <description>Webapp.</description>
+  <name>Outro</name>
+  <description>Outro.</description>
 
   <build>
     <finalName>${project.artifactId}</finalName>
